@@ -1,0 +1,6 @@
+torch==2.3.0
+setuptools==70.0.0
+wheel==0.43.0
+black==24.4.2
+ruff==0.4.6
+isort==5.13.2
