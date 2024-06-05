@@ -1,0 +1,6 @@
+model,performance,performance1,performance2
+depth-anything,95,0,0
+marigold,94,0,0
+depth-anything-tuned,95,0,0
+spatialgpt,94,2328,366655496
+llava,93,0,0
