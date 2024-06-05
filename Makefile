@@ -55,3 +55,11 @@ static-checks:
 	@black --diff --check src
 	@ruff check src
 .PHONY: lint
+
+# ------------------------ #
+#        Unit tests        #
+# ------------------------ #
+
+test:
+	python -m pytest
+.PHONY: test

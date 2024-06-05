@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+*.egg-info/
+logs/
+None/
+dist/
+.pytest_cache/
+.DS_Store
+loco_mujoco/datasets/
+mushroom_rl_recordings/
+record_all/
+_build/
+

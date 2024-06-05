@@ -4,3 +4,4 @@ wheel==0.43.0
 black==24.4.2
 ruff==0.4.6
 isort==5.13.2
+pytest==8.2.2
