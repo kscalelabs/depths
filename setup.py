@@ -16,7 +16,7 @@ with open("src/requirements.txt", "r", encoding="utf-8") as f:
 
 with open("src/__init__.py", "r", encoding="utf-8") as fh:
     version_re = re.search(r"^__version__ = \"([^\"]*)\"", fh.read(), re.MULTILINE)
-assert version_re is not None, "Could not find version in sim/__init__.py"
+assert version_re is not None, "Could not find version in src/__init__.py"
 version: str = version_re.group(1)
 
 

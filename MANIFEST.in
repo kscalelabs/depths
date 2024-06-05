@@ -1,1 +1,1 @@
-recursive-include kscale-sim-library/ *.py *.txt py.typed MANIFEST.in
+recursive-include src/ *.py *.txt py.typed MANIFEST.in
