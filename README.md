@@ -2,7 +2,17 @@
 
 ## Demos
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/kscalelabs/depths/blob/master/House_video_depth.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Depth Estimation
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/kscalelabs/depths/blob/master/3d_scene.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 3D Scene Reconstruction
 
