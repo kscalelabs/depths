@@ -17,6 +17,18 @@ https://github.com/kscalelabs/depths/assets/35588167/14ba11ce-9ab1-4e66-ad3c-7b8
 
 3D Scene Reconstruction
 
+
+
+
+https://github.com/kscalelabs/depths/assets/35588167/c89eb4b1-59f9-44cb-854f-511049e8f317
+
+
+
+
+https://github.com/kscalelabs/depths/assets/35588167/eabd46d2-7343-45d2-8430-a6a2157cad1b
+
+
+
 ## Instructions
 
 1. run_video_depth_only.py: Get depth estimation inference frames from video
