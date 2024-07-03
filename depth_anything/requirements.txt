@@ -1,5 +1,5 @@
 gradio_imageslider
-gradio==4.14.0
+gradio==4.37.1
 torch
 torchvision
 opencv-python
