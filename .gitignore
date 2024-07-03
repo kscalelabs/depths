@@ -10,7 +10,4 @@ loco_mujoco/datasets/
 mushroom_rl_recordings/
 record_all/
 _build/
-*.png
-*.ply
-*.mov
-*.mp4
+
