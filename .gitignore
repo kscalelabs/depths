@@ -12,5 +12,3 @@ record_all/
 _build/
 *.png
 *.ply
-*.mov
-*.mp4
