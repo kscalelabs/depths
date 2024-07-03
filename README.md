@@ -4,7 +4,9 @@
 
 
 
-https://github.com/kscalelabs/depths/assets/35588167/97b4ec03-1741-45e2-9e41-eaea44b4f1a5
+
+https://github.com/kscalelabs/depths/assets/35588167/b0321dd0-14ba-4014-8b70-482e8c7bc855
+
 
 
 Depth Estimation
